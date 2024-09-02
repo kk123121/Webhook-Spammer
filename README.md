@@ -1,1 +1,2 @@
-# Webhook-Spammer
+#IN BETA
+more releases coming soon!
