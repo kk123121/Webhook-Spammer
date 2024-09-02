@@ -1,3 +1,3 @@
-# IN BETA
+# DISCORD ONLY
 
-more releases coming soon!
+sorry!
